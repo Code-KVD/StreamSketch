@@ -1,4 +1,4 @@
-### StreamSketch: A dynamic, real-time collaborative platform transforming remote communication through interactive whiteboard sharing and live sketching sessions.
+# StreamSketch: A dynamic, real-time collaborative platform transforming remote communication through interactive whiteboard sharing and live sketching sessions.
 # Installation Guide
 1. Download or Clone this repo
 2. Unzip the repo (if downloaded)
